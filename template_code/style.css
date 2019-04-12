@@ -8,6 +8,7 @@ body {
 /******************************************
 EXTRA CREDIT MODIFICATIONS
 *******************************************/
+/* Source: https://css-tricks.com/practical-css-scroll-snapping/ */
 .main-container {
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
